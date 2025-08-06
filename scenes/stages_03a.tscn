@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://dmfa8cxfi7xf5"]
+
+[ext_resource type="PackedScene" uid="uid://dv8jq0lwems2l" path="res://models/Stages-03a.fbx" id="1_htymy"]
+
+[node name="Stages-03a" instance=ExtResource("1_htymy")]

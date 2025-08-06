@@ -1,0 +1,18 @@
+[gd_scene load_steps=5 format=3 uid="uid://dtd5o08b4jpmk"]
+
+[ext_resource type="PackedScene" uid="uid://deuy0riatr0ng" path="res://scenes/main_menu.tscn" id="1_2wyq8"]
+[ext_resource type="Script" uid="uid://dj637j3w82bhw" path="res://scripts/game_manager.gd" id="1_y6deb"]
+[ext_resource type="PackedScene" uid="uid://20hb4ym14pjw" path="res://scenes/gameplay.tscn" id="3_sugp2"]
+[ext_resource type="PackedScene" uid="uid://dg3a1ajlah5l" path="res://scenes/end_screen.tscn" id="4_jyhfs"]
+
+[node name="Game" type="Node"]
+
+[node name="GameManager" type="Node" parent="."]
+script = ExtResource("1_y6deb")
+
+[node name="EndScreen" parent="." instance=ExtResource("4_jyhfs")]
+
+[node name="MainMenu" parent="." instance=ExtResource("1_2wyq8")]
+metadata/_edit_use_anchors_ = true
+
+[node name="gameplay" parent="." instance=ExtResource("3_sugp2")]
