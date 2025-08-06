@@ -1,0 +1,100 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://gyuqga48rtdm"
+path="res://.godot/imported/Untitled.gltf-4d3225765689a9031525ca02164a1dcb.scn"
+
+[deps]
+
+source_file="res://models/Untitled.gltf"
+dest_files=["res://.godot/imported/Untitled.gltf-4d3225765689a9031525ca02164a1dcb.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+nodes/import_as_skeleton_bones=false
+nodes/use_node_type_suffixes=true
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=3
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=false
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+animation/import_rest_as_RESET=false
+import_script/path="uid://c7xw28hrq8g3l"
+_subresources={
+"materials": {
+"Arch 03.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/Arch 03.001.tres"
+},
+"Arch 06": {
+"use_external/enabled": true,
+"use_external/path": "res://models/Arch 06.tres"
+},
+"Poles 05.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/Poles 05.001.tres"
+},
+"S2-floor.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/S2-floor.001.tres"
+},
+"S3-Rails1": {
+"use_external/enabled": true,
+"use_external/path": "res://models/S3-Rails1.tres"
+},
+"TD 01.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/TD 01.001.tres"
+},
+"TD 02.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/TD 02.001.tres"
+},
+"TD 03.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/TD 03.001.tres"
+},
+"Tower": {
+"use_external/enabled": true,
+"use_external/path": "res://models/Tower.tres"
+},
+"Tunnel 02.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/Tunnel 02.001.tres"
+},
+"Tunnel 03": {
+"use_external/enabled": true,
+"use_external/path": "res://models/Tunnel 03.tres"
+},
+"Tunnel 05.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/Tunnel 05.001.tres"
+},
+"structure-prt1": {
+"use_external/enabled": true,
+"use_external/path": "res://models/structure-prt1.tres"
+},
+"structure-prt2": {
+"use_external/enabled": true,
+"use_external/path": "res://models/structure-prt2.tres"
+},
+"structure-prt2.001": {
+"use_external/enabled": true,
+"use_external/path": "res://models/structure-prt2.001.tres"
+}
+}
+}
+gltf/naming_version=1
+gltf/embedded_image_handling=1
